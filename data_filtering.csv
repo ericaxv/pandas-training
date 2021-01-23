@@ -1,0 +1,18 @@
+,#,Name,Type 1,Type 2,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary,Total_Power
+82,76,Golem,Rock,Ground,80,120,130,55,65,45,1,False,365
+152,141,Kabutops,Rock,Water,60,115,105,65,70,80,1,False,390
+153,142,Aerodactyl,Rock,Flying,80,105,65,60,75,130,1,False,450
+154,142,AerodactylMega Aerodactyl,Rock,Flying,80,135,85,70,95,150,1,False,530
+267,248,Tyranitar,Rock,Dark,100,134,110,95,100,61,2,False,490
+268,248,TyranitarMega Tyranitar,Rock,Dark,100,164,150,95,120,71,2,False,550
+380,348,Armaldo,Rock,Bug,75,125,100,70,80,45,3,False,395
+453,408,Cranidos,Rock,,67,125,40,30,30,58,4,False,310
+454,409,Rampardos,Rock,,97,165,60,65,50,58,4,False,435
+584,525,Boldore,Rock,,70,105,105,50,40,20,5,False,285
+585,526,Gigalith,Rock,,85,135,130,60,80,25,5,False,385
+627,566,Archen,Rock,Flying,55,112,45,74,45,70,5,False,356
+628,567,Archeops,Rock,Flying,75,140,65,112,65,110,5,False,502
+700,639,Terrakion,Rock,Fighting,91,129,90,72,90,108,5,True,490
+759,689,Barbaracle,Rock,Water,72,105,115,54,86,68,6,False,385
+767,697,Tyrantrum,Rock,Dragon,82,121,119,69,59,71,6,False,402
+796,719,DiancieMega Diancie,Rock,Fairy,50,160,110,160,110,110,6,True,590
